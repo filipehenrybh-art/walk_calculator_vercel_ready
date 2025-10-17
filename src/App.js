@@ -1,7 +1,7 @@
 
 import React, { useState } from 'react';
 
-const CHECKOUT_URL = "https://seudominio.com/checkout"; // temporário — substitua depois
+const CHECKOUT_URL = "https://pay.kiwify.com.br/u3om67C"; // temporário — substitua depois
 
 function calcIdealWeight(heightCm) {
   const h = heightCm / 100;
