@@ -129,7 +129,7 @@ export default function App(){
             <p style={{marginTop:12,color:'#334155'}}>Com perda média de 0.5 kg/semana, você levaria aproximadamente <strong>{result.weeksNeeded} semanas</strong> para atingir o peso ideal.</p>
 
             <div style={{display:'flex',gap:8,marginTop:12}}>
-              <a href={CHECKOUT_URL} target="_blank" rel="noreferrer" style={{padding:'10px 16px',background:'#06b6d4',color:'#fff',borderRadius:8,fontWeight:600,textDecoration:'none'}}>Quero o ebook (comprar)</a>
+              <a href={CHECKOUT_URL} target="_blank" rel="noreferrer" style={{padding:'10px 16px',background:'#06b6d4',color:'#fff',borderRadius:8,fontWeight:600,textDecoration:'none'}}>Quero o meu ebook (comprar)</a>
               <button onClick={()=>window.scrollTo({top:0,behavior:'smooth'})} style={{padding:'10px 16px',background:'#fff',border:'1px solid #e6eef0',borderRadius:8}}>Voltar ao topo</button>
             </div>
 
@@ -138,8 +138,8 @@ export default function App(){
         )}
 
         <footer style={{marginTop:18,textAlign:'center',color:'#0f172a'}}>
-          <small>Emagreça com Saúde, a mudança começa agora! 
-        </footer>
+          <small>Emagreça com Saúde, a mudança começa agora!
+          </footer>
       </main>
     </div>
   );
