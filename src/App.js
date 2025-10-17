@@ -138,7 +138,7 @@ export default function App(){
         )}
 
         <footer style={{marginTop:18,textAlign:'center',color:'#0f172a'}}>
-          <small>Personalize o link de checkout substituindo a constante <code>CHECKOUT_URL</code> no código.</small>
+          <small>Emagreça com Saúde, a mudança começa agora! <code>https://pay.kiwify.com.br/u3om67C</code> no código.</small>
         </footer>
       </main>
     </div>
